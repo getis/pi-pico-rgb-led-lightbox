@@ -1,1 +1,7 @@
+#Parts list for Raspberry Pi Pico 16x16 RGB LED Lightbox
 
+##Sheet Material
+
+1 off Opal Frosted Acrylic Sheet - 3mm thick x 300mm wide x 300mm height
+1 off Mirror Acrylic Sheet - 3mm thick x 300mm wide x 300mm height
+1 off Standard MDF Sheet - 6mm thick x 300mm wide x 415mm height
