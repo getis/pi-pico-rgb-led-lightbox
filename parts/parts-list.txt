@@ -1,7 +1,20 @@
-Parts list for Raspberry Pi Pico 16x16 RGB LED Lightbox
+Mechanical Parts list for Raspberry Pi Pico 16x16 RGB LED Lightbox
 
 Sheet Material
+==============
 
 1 off Opal Frosted Acrylic Sheet - 3mm thick x 300mm wide x 300mm height
 1 off Mirror Acrylic Sheet - 3mm thick x 300mm wide x 300mm height
 1 off Standard MDF Sheet - 6mm thick x 300mm wide x 415mm height
+
+3D Printed Parts
+================
+filenames refer to files in the /parts/stl folder
+
+34 off horz_divider.stl
+34 off vert_divider.stl
+4 off frame-bottom.stl
+4 off frame-top-side.stl
+2 off frame-top-top-left.stl
+2 off frame-top-top-right.stl
+
