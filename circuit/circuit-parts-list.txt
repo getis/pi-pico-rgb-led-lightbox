@@ -1,1 +1,11 @@
+Raspberry Pi Pico 16x16 RGB LED Lightbox Circuit Parts
+======================================================
 
+1 off Max 9814 Microphone Unit - https://amzn.to/3PrsPFw
+1 off Pack of PCB Terminals - 1 pack off https://amzn.to/3sHTeGg
+1 off Pack of PCB Header Connectors - 1 pack off https://amzn.to/44Gj1Mm
+1 off PCB Mount DC Power Connector Female - 1 pack off https://amzn.to/44zBRok
+6 off PCB Push Button Switches - 1 pack off https://amzn.to/47ZB9Ue
+1 off 5m Reel WS2812 Neopixels, 60 pixels/m - https://amzn.to/3sIgMuN
+1 off Raspberry Pi Pico W with Headers - https://amzn.to/3sIh057
+1 off 5V 10A PSU - https://amzn.to/44EgkL1
